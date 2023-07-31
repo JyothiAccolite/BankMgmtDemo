@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BankManagementDemo</name>
+    </assembly>
+    <members>
+        <member name="M:BankManagementDemo.Controllers.AccountController.GetAccounts(System.Int32)">
+            <summary>
+            Get Account details based on CustomerId
+            </summary>
+            <param name="customerId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BankManagementDemo.Controllers.AccountController.CreateAccount(BankManagementDemo.Models.BaseAccount)">
+            <summary>
+            Creates a bank account. Miminum opening balance $100
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BankManagementDemo.Controllers.AccountController.DeleteAccount(System.Int64)">
+            <summary>
+            Deletes an existing account based on AccountNumber
+            </summary>
+            <param name="accountNumber"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BankManagementDemo.Controllers.AccountController.DepositMoney(System.Int64,System.Decimal)">
+            <summary>
+            Deposits money to an existing account based on AccountNumber
+            </summary>
+            <param name="accountNumber"></param>
+            <param name="amount"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BankManagementDemo.Controllers.AccountController.WithdrawMoney(System.Int64,System.Decimal)">
+            <summary>
+            Withdraws money from an existing account based on AccountNumber
+            </summary>
+            <param name="accountNumber"></param>
+            <param name="amount"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

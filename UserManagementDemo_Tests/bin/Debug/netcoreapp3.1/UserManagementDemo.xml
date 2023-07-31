@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UserManagementDemo</name>
+    </assembly>
+    <members>
+        <member name="M:UserManagementDemo.Controllers.UserController.GetUsers">
+            <summary>
+            Lists All the Users
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagementDemo.Controllers.UserController.GetUser(System.Int32)">
+            <summary>
+            Gets a specific user based on Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagementDemo.Controllers.UserController.CreateUser(UserManagementDemo.Models.User)">
+            <summary>
+            Creates a new user
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagementDemo.Controllers.UserController.UpdateUser(System.Int32,UserManagementDemo.Models.User)">
+            <summary>
+            Updates an existing user
+            </summary>
+            <param name="id"></param>
+            <param name="updatedUser"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UserManagementDemo.Controllers.UserController.DeleteUser(System.Int32)">
+            <summary>
+            Deletes an existing user
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
