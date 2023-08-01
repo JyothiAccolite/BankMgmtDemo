@@ -7783,11 +7783,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jyothi.n\\Desktop\\Radancy\\BankManagementDemo\\UserManagementDemo_Tests\\BankManagementDemo_Tests.csproj",
+      "projectUniqueName": "C:\\Users\\jyothi.n\\Desktop\\Radancy\\BankManagementDemo\\BankManagementDemo_Tests\\BankManagementDemo_Tests.csproj",
       "projectName": "BankManagementDemo_Tests",
-      "projectPath": "C:\\Users\\jyothi.n\\Desktop\\Radancy\\BankManagementDemo\\UserManagementDemo_Tests\\BankManagementDemo_Tests.csproj",
+      "projectPath": "C:\\Users\\jyothi.n\\Desktop\\Radancy\\BankManagementDemo\\BankManagementDemo_Tests\\BankManagementDemo_Tests.csproj",
       "packagesPath": "C:\\Users\\jyothi.n\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jyothi.n\\Desktop\\Radancy\\BankManagementDemo\\UserManagementDemo_Tests\\obj\\",
+      "outputPath": "C:\\Users\\jyothi.n\\Desktop\\Radancy\\BankManagementDemo\\BankManagementDemo_Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jyothi.n\\AppData\\Roaming\\NuGet\\NuGet.Config",
